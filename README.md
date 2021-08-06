@@ -1,10 +1,3 @@
-- 👋 Hi there, I’m @modrozd, actually Monika Drozd - IT enthusiast from Poland studying IT at Gdansk University of Technology :)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-modrozd/modrozd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi there, I’m @modrozd, actually Monika Drozd - IT enthusiast from Poland studying IT at Gdansk University of Technology :smiley_cat:
+- Everything here on my github is a result of my independent work and a proof of how I develop in my favourite science areas :ok_woman:
+- You can reach me via monikadrozd@protonmail.com
