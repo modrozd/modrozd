@@ -1,4 +1,3 @@
-- Hi, I’m @modrozd, actually Monika Drozd - IT enthusiast from Poland studying Computer Science at Gdansk University of Technology.
-- Here on github I'm gathering some of my projects from Uni and some of my individiual ones that I'm working on. 
-- You can reach me via monikadrozd@protonmail.com
-- In my free time I love hiking :sunrise_over_mountains:, going crazy on my bike :bike: and taking care of my tomatoes in the greenhouse :tomato:
+- hi, here is Monika. I work as a Python Developer in space industry, here on Github I have mainly my old projects from studying Computer Science at uni. Now all of my work lands on my company Gitlab. 💁‍♀️
+- you can reach me via my [Linkedin](https://www.linkedin.com/in/monika-drozd-323b02175/)
+- have a good day, folk
