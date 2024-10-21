@@ -1,3 +1,2 @@
-- hi, here is Monika. I work as a Python Developer in space industry, here on Github I have mainly my old projects from studying Computer Science at uni. Now all of my work lands on my company Gitlab. 💁‍♀️
-- you can reach me via my [Linkedin](https://www.linkedin.com/in/monika-drozd-323b02175/)
-- have a good day, folk
+- hey
+- have a good day
